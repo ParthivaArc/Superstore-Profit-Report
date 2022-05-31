@@ -12,6 +12,6 @@ Key insights generated from the dashboards are-
 Verdict- Despite not having a big sale of Copiers that amounts to 149K, however it made the highest profit which makes the stores to invest in this business more than ever. In terms of consistent performing the phones would be the one to target ahead as it is not only having higher sales but also the profit being contributed is considerable. The products to watch out for in the upcoming time is table as the loss it incurred was considerable. Also, the stores must look into the central and south region respectively that contributed to 13.86% and 16.32% profit respectively.
 
 Top Product from each category that the super stores can invest upon to generate more profits-
-Technology: Phones and Copiers
-Office Supplies: Papers
+Technology: Phones and Copiers || 
+Office Supplies: Papers || 
 Furnitures: Chairs
